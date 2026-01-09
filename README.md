@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chotixity&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 <!--
 **ObuyaErick/ObuyaErick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
